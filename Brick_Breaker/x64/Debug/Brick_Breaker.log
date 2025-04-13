@@ -1,0 +1,21 @@
+﻿  Game.cpp
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(66,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(104,34): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(104,29): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(105,58): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(112,54): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(120,32): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(120,27): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(121,108): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(121,108): warning C4244:         with
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(121,108): warning C4244:         [
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(121,108): warning C4244:             T=float
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(121,108): warning C4244:         ]
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(136,30): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(136,25): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(368,46): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(368,46): warning C4244:         with
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(368,46): warning C4244:         [
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(368,46): warning C4244:             T=int
+E:\Projects\Brick_Breaker\Brick_Breaker\Game.cpp(368,46): warning C4244:         ]
+  Brick_Breaker.vcxproj -> E:\Projects\Brick_Breaker\x64\Debug\Brick_Breaker.exe
